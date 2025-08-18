@@ -1,0 +1,14 @@
+requests
+pandas
+praw
+torch
+transformers
+tqdm
+langdetect
+googletrans==4.0.0-rc1
+pydub
+git+https://github.com/openai/whisper.git
+google-auth-oauthlib==0.4.1
+google-auth==1.35.0
+google-api-python-client==2.0.2
+moviepy
