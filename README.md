@@ -13,6 +13,7 @@ This project automates the process of generating and posting short AI-created vi
 
 ⚡ End-to-End Automation → Eliminates manual intervention for content creation and publishing.
 
+
 🔹 Tech Stack
 
 Python
@@ -25,6 +26,7 @@ MoviePy / OpenCV (for video processing)
 
 AI/ML Models (for content generation)
 
+
 🔹 How It Works
 
 Generate content using AI/ML models.
@@ -34,6 +36,7 @@ Process and format the output into reel-style videos.
 Authenticate with Reddit API.
 
 Automatically post the reels to chosen subreddits.
+
 
 🔹 Installation & Usage
 
@@ -55,9 +58,6 @@ Add your Reddit API credentials in the config section.
 
 Execute cells to generate and post reels automatically.
 
-🔹 Example Output
-
-(Add screenshots / sample video links here)
 
 🔹 Future Enhancements
 
@@ -67,6 +67,3 @@ Improve AI model for more engaging video generation.
 
 Add scheduling feature for timed auto-posting.
 
-🔹 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
